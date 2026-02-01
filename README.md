@@ -139,7 +139,7 @@ shopping_analysis_mini/
 
 ## Tableau Dashboard
 
-*(https://public.tableau.com/app/profile/ibrahim.gritly/viz/TotalRevenueperagegroup/Dashboard1)*
+*https://public.tableau.com/app/profile/ibrahim.gritly/viz/TotalRevenueperagegroup/Dashboard1*
 
 ---
 
