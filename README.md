@@ -99,6 +99,24 @@ An interactive Tableau dashboard was created to visualize key insights and allow
 
 ---
 
+## Repository Structure
+
+```
+shopping_analysis_mini/
+│
+├── Cleaning_customer_trends.ipynb
+│
+├── Customer Behaviour Dashboard.pdf
+│
+├── Customer trends sql analysis.sql
+│
+├── Project Report.docx
+│
+└── README.md
+```
+
+---
+
 ## Limitations & Next Steps
 **Limitations:**
 - Dataset represents a limited time range
@@ -111,8 +129,21 @@ An interactive Tableau dashboard was created to visualize key insights and allow
 
 ---
 
-## Files in This Repository
-- [Python Notebook – Data Cleaning & EDA](./Cleaning_customer_trends.ipynb)
-- [SQL Analysis Queries](./Customer%20trends%20sql%20analysis.sql)
-- [Dashboard (PDF Export)](./Customer%20Behaviour%20Dashboard.pdf)
-- [Project Report](./Project%20Report.docx)
+## Deliverables
+* [Python Notebook – Data Cleaning & EDA](./Cleaning_customer_trends.ipynb)
+* [SQL Analysis Queries](./Customer%20trends%20sql%20analysis.sql)
+* [Dashboard (PDF Export)](./Customer%20Behaviour%20Dashboard.pdf)
+* [Project Report](./Project%20Report.docx)
+
+---
+
+## Tableau Dashboard
+
+*(https://public.tableau.com/app/profile/ibrahim.gritly/viz/TotalRevenueperagegroup/Dashboard1)*
+
+---
+
+## Author
+
+**Ibrahim M. Hassan**
+Data Analytics Portfolio Project
