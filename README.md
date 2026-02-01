@@ -77,7 +77,7 @@ An interactive Tableau dashboard was created to visualize key insights and allow
 - Product performance
 - Discount and shipping behavior
 
-👉 *(Tableau Public link included in the repository)*
+👉 *(https://public.tableau.com/app/profile/ibrahim.gritly/vizzes)*
 
 ---
 
